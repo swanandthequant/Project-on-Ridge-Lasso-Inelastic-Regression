@@ -8,6 +8,8 @@ I used a very Good Dataset of Algerian forest Fires From online sources
 4.Model Training(I just did the implementation of multiple Regression as there was no need of data cleaning in this)
 5.Model Evaluation (using mean_squared_error,mean_absolute_error,root_mean_squared_error,R2_score,Residuals)
 6.pickling
+7.Making a site for this Prediction
+
 
 ## what I learned
 by this project it was medium Level project But I learned about Ridge,Lasso,Inelastic,simple Linear Regresssion 
